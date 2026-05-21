@@ -1,0 +1,4 @@
+.ven/
+__pycache__/
+*.pyc
+app/heatmaps/
